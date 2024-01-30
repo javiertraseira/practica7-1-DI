@@ -9,7 +9,13 @@ Crea un nuevo proyecto **JavaFX** (en Maven o Ant) siguiendo el MVC visto en cla
 
 ## Parte 2
 
-A partir del proyecto anterior crea los siguientes componentes:
+Mejora la ventana anterior añadiendo varios de los controladores adicionales que permite JavaFX para probar sus funcionalidades.
+
+
+
+## Parte 3
+
+A partir del proyecto anterior crea ahora los siguientes componentes:
 
    -   Titula a la ventana 'Operaciones sencillas'
    -   Crea una **clase** para realizar operaciones matemáticas (en este caso solo la **suma**) dentro del **modelo**.
