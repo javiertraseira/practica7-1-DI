@@ -32,5 +32,6 @@ Mejora la pantalla anterior para permitir realizar distintas operaciones matemá
 -  Agrega a la clase modelo las operaciones necesarias.
 -  Deberás de agrupar los radibuttons en la parte de initialize de la clase controladora.
 -  Deberá de recogerse el error de división por cero.
+-  Mejora la usabilidad en la medida de lo posible.
 
 ![](media/captura_1_4.png)
