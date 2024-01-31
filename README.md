@@ -27,7 +27,7 @@ A partir del proyecto anterior crea ahora los siguientes componentes:
 
 ## Parte 4 (opcional)
 
-Mejora la pantalla anterior para permitir realizar distintas operaciones matemáticas seleccionando el radiobutton correspondiente:
+Mejora la pantalla anterior para permitir realizar distintas operaciones matemáticas seleccionando el *radiobutton* correspondiente:
 
 -  Agrega a la clase modelo las operaciones necesarias.
 -  Deberás de agrupar los radibuttons en la parte de initialize de la clase controladora.
