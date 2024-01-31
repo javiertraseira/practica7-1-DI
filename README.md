@@ -4,13 +4,14 @@
 
 Crea un nuevo proyecto **JavaFX** (en Maven o Ant) siguiendo el MVC visto en clase con una ventana sencilla que tan solo salude al usuario y muestre un botón que muestre salir.
 
-![](media/2023-02-06_19_11_09.png)
+![](media/captura_1_1.png)
 
 
 ## Parte 2
 
-Mejora la ventana anterior añadiendo varios de los controladores adicionales que permite JavaFX para probar sus funcionalidades.
+Mejora la ventana anterior añadiendo varios de los controladores adicionales que permite JavaFX para probar sus funcionalidades. Crea una ventana que no pueda redimensionarse.
 
+![](media/captura_1_2.png)
 
 
 ## Parte 3
