@@ -23,3 +23,14 @@ A partir del proyecto anterior crea ahora los siguientes componentes:
    -   Modifica la ventana (**vista** con la siguiente apariencia) y su **controlador** asociado, dándole como funcionalidad de suma de dos números que puedan tener decimales, así como una gestión básica de errores.
 
 ![](media/e21a7c4bffc20669a0adffd35b121e22.png)
+
+
+## Parte 4 (opcional)
+
+Mejora la pantalla anterior para permitir realizar distintas operaciones matemáticas seleccionando el radiobutton correspondiente:
+
+-  Agrega a la clase modelo las operaciones necesarias.
+-  Deberás de agrupar los radibuttons en la parte de initialize de la clase controladora.
+-  Deberá de recogerse el error de división por cero.
+
+![](media/captura_1_4.png)
