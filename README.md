@@ -16,7 +16,7 @@ Mejora la ventana anterior añadiendo varios de los controladores adicionales qu
 
 ## Parte 3
 
-A partir del proyecto anterior crea ahora los siguientes componentes:
+ Crea un nuevo proyecto con los siguientes componentes:
 
    -   Titula a la ventana 'Operaciones sencillas'
    -   Crea una **clase** para realizar operaciones matemáticas (en este caso solo la **suma**) dentro del **modelo**.
